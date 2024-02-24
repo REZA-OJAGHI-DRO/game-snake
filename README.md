@@ -1,7 +1,7 @@
 # game-snake
 **If you have a lot of information to display on your site, why don't you use my accordion menu**
 
-![Screenshot (58)](https://github.com/REZA-OJAGHI-DRO/Admin-Panel-next.js/assets/145910720/49a74714-76fd-4fd3-883c-ce9e5a3e6deb)
+![Screenshot (61)](https://github.com/REZA-OJAGHI-DRO/game-snake/assets/145910720/49d9bbf4-6b48-4975-a997-0bba10dadabe)
 
 - [Demo Project(VPN)](https://game-snake-6d2d-git-main-rezas-projects-a378c585.vercel.app/)
  

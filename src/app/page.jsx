@@ -1,7 +1,7 @@
 "use client";
 import './globals.css';
-import { array } from "prop-types";
-import { useEffect, useLayoutEffect, useRef, useState } from "react";
+
+import { useEffect, useRef, useState } from "react";
 
 export default function Home() {
   const box = useRef();
@@ -467,7 +467,7 @@ if(e.key=='w'){
         </button>
         <button
           ref={rr}
-          data-status="off"
+          data-status="on"
           onClick={() => right(event)}
           className="w-[3rem] d m-1 shadow-xl h-[3rem] border-black bg-[rgb(110,120,136)] border-2 flex justify-center items-center text-[1.5rem]"
         >
